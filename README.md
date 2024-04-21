@@ -1,3 +1,45 @@
+# React To-Do App
+
+This is a simple To-Do application built using React, Node.js, HTML, and CSS. It allows users to add tasks to a to-do list and remove them by clicking on them.
+
+## Features
+
+- Add tasks to your to-do list.
+- Remove tasks by clicking on them.
+
+## Installation
+
+To run this application locally, follow these steps:
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Aditya-Ranjan1234/ToDo_App.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd ToDo_App
+```
+
+3. Install dependencies for both the frontend and backend:
+
+```bash
+npm install
+```
+
+## Technologies Used
+
+- React
+- Node.js
+- HTML
+- CSS
+
+## Contributing
+
+Contributions are welcome! Feel free to submit pull requests or open issues.
+
 # Create React App
 
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
